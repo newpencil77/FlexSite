@@ -245,7 +245,7 @@ p{
     display: block;
     /* 여기서 왜 auto값이 적용이 안 될까? */
     margin: auto;
-    width: 100px;
+    width: 60%;
 }
 
 
